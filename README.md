@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Plaany](https://plaany.com/)
+- 🔭 I’m currently working on many projects.
 
 - 🌱 I’m currently learning **NodeJs, NextJs**
 
